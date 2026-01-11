@@ -37,7 +37,7 @@ In conclusion, while the article presents ~, the lecturer challenges this view b
 
 **Introduction**
 
-The article introduces the topic of group work in education. The writer states that group work is highly beneficial for students. However, the lecture disagrees with this.
+**The article introduces the topic of** group work in education. The writer states that group work is highly beneficial for students. However, the lecture disagrees with this.
 
 **Body 1**
 
@@ -72,7 +72,7 @@ The article introduces the topic of group work in education. The writer states t
 **Body 1**
 
 **First,** the writer mentions that solar energy is environmentally friendly because it does not produce air pollution.
-**However,** the lecture argues that manufacturing solar causes environmental damage. The lecturer explains that toxic chemicals are used *during production*.  These chemicals can *pollute* water and soil.
+**However,** the lecture argues that manufacturing solar panels causes environmental damage. The lecturer explains that toxic chemicals are used *during production*.  These chemicals can *pollute* water and soil.
 
 
 **Body 2**
