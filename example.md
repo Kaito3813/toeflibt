@@ -3,12 +3,10 @@
     - [**cautious**](#cautious)
     - [**template**](#template)
     - [**usage**](#usage)
-      - [**example1. Group Work in Education**](#example1-group-work-in-education)
-      - [**expample2. Solar Energy**](#expample2-solar-energy)
-      - [**example3. Online learning**](#example3-online-learning)
+      - [**example1. Online Learning**](#example1-online-learning)
+      - [**example2. Solar Energy**](#example2-solar-energy)
+      - [**example3. Group Work in Education**](#example3-group-work-in-education)
       - [**example4. Zoo Conservation**](#example4-zoo-conservation)
-      - [**example5. Handwritten Notes vs Digital Notes**](#example5-handwritten-notes-vs-digital-notes)
-      - [**example6. Space exploration**](#example6-space-exploration)
   - [**independent task**](#independent-task)
     - [**template**](#template-1)
     - [**usage**](#usage-1)
@@ -71,175 +69,62 @@ In conclusion, while the article presents ~, the lecturer challenges this view b
 
 ### **usage**
 
-
 ---
-#### **example1. Group Work in Education**
+#### **example1. Online Learning**
 ---
 
-**Introduction**
+**The article introduces the topic of** online learning. The writer *states* that online education is more effective than traditional classroom learning. **However,** the lecture **clearly** *disagrees with* this claim.
 
-**The article introduces the topic of** group work in education. The writer states that group work is highly beneficial for students. However, the lecture disagrees with this.
+**First,** the writer *mentions* that online learning <u>provides flexibility in time and location</u>. According to the article, students can study <u>whenever and wherever they want.</u> **However**, the lecture *argues* that this flexibility often causes serious <u>procrastination.</u> The lecturer *explains* that without fixed schedules, many students postpone studying until deadlines approach. As a result, they feel overwhelmed and perform poorly on exams and assignments.
 
-**Body 1**
+**Next,** the article *states* that online courses offer access to a wide variety of learning materials. The writer *claims* that students can choose resources that best fit their learning styles. **On the other hand,** the lecture *points out* that too many materials can actually reduce learning efficiency. The lecturer adds that some online sources are unreliable or inaccurate. Consequently, students may become confused and misunderstand important concepts.
 
-**First**, the writer mentions that group work helps students improve their communication skills by interacting with classmates.
-**However,** the lecture argues that in many groups, only one or two students dominate the discussion. As a result, quieter students do not have enough opportunities to speak. Therefore, their communication skills do not actually improve.
+**Finally,** the writer *argues* that online learning helps students become independent learners. **In contrast,** the lecture *explains* that many students lack self-discipline. The lecturer *notes* that without direct supervision from instructors, students often lose motivation. **Over time,** this leads to low course completion rates.
 
-**Body 2**
-
-**Next,** the writer mentions that group work helps students improve their communication skills by interacting with classmates.
-**On the other hand,** the lecture argues that in many groups, only one or two students dominate the discussion. As a result, quieter students do not have enough opportunities to speak. Therefore, their communication skills do not actually improve.
-
-**Body 3**
-
-**Finally,** the writer argues that group work prepares students for teamwork in their future careers.
-**In contrast,** the lecture explains that most real workplaces evaluate *(not evaluates)* individuals rather than groups. The lecturer also notes that students often rely on others, which does not reflect real professional *responsibilities*.
-
-**conclusion**
-
-**In conclusion,** while the article presents group work as an effective learning method, the lecturer challenges this view by providing counterarguments *regarding* unequal participation, misinformation, and unrealistic preparation for future jobs.
-
+**In conclusion,** **while the article <u>*presents*** online learning as highly effective,</u> the lecturer challenges this view by emphasizing **problems related to** procrastination, unreliable materials, and lack of self-discipline.
 
 ---
 
-#### **expample2. Solar Energy**
+#### **example2. Solar Energy**
+---
+
+**The article introduces the topic o**f solar energy. The writer *claims* that solar power is an ideal solution to current energy problems. **However, the lecture disagrees with this position.**
+
+**First,** the writer *states* that solar energy is <u>environmentally friendly</u> because it produces no air pollution. According to the article, this <u>makes solar power a clean energy source.</u> **However,** the lecture *points* out that producing solar panels harms the environment. The lecturer *explains* that toxic chemicals used during manufacturing can contaminate nearby soil and water. **As a result,** solar energy is <u>not as environmentally safe as the article suggests.</u>
+
+**Next,** the article *argues* that solar energy reduces electricity costs in the long term. The writer *claims* that homeowners can save money over time. **On the other hand,** the lecture *explains* that the initial installation cost is extremely high. The lecturer *adds that* many families cannot afford this investment. **Therefore,** most people never experience the financial benefits described in the article.
+
+**Finally,** the writer *asserts* that solar energy is reliable due to abundant sunlight. **In contrast,** the lecture *explains* that solar power heavily depends on weather conditions. The lecturer *notes* that energy production decreases significantly on cloudy or rainy days. <u>This makes solar energy an unstable power source.</u>
+
+**In conclusion,** **while the article** promotes solar energy as practical and eco-friendly, the lecturer **challenges this view by discussing** environmental damage, high costs, and unreliable energy production.
 
 ---
 
-**Introduction**
-
-**The article introduces the topic of** solar energy as an *alternative* energy source. **The writer states that** solar power is an effective solution to energy problems. **However,** the lecture disagrees *with* this.
-
-**Body 1**
-
-**First,** the writer mentions that solar energy is environmentally friendly because it does not produce air pollution.
-**However,** the lecture argues that manufacturing solar panels causes environmental damage. The lecturer explains that toxic chemicals are used *during production*.  These chemicals can *pollute* water and soil.
-
-
-**Body 2**
-
-**Next,** the writer states that using solar energy can reduce electricity costs in the *long run*. **On the other hand,** the lecture points out that the initial cost is *extremely* expensive. The lecturer adds that many people cannot afford this cost, so they never benefit financially.
-
-**Body 3**
-
-**Finally,** the writer argues that solar energy is reliable and stable.
-**In contrast,** the lecture explains that sol**a**r power depends heavily on weather conditions. The lecturer gives an example that solar panels cannot generate enough electricity on cloudy or rainy days.
-
-**Conclusion**
-
-**In conclusion,** while the article presents solar energy as a practical option, the lecturer challenges this view by discussing environmental harm, high costs, and unstable energy production.
-
+#### **example3. Group Work in Education**
 ---
 
-#### **example3. Online learning**
+**The article introduces the topic of** group work in education. The writer *argues* that group projects improve students’ academic performance. **However, the lecture disagrees with this argument.**
+
+**First,** the article *states* that <u>group work encourages students to share ideas and perspectives.</u> According to the writer, this interaction improves understanding. **However,** the lecture *argues* that group discussions are often dominated by a small number of students. The lecturer *explains* that quieter students rarely participate. **As a result,** they gain little educational benefit.
+
+**Next,** the writer *claims* that group work prepares students for teamwork in their future careers. **On the other hand,** the lecture *points out* that most workplaces evaluate employees individually. The lecturer *adds* that responsibilities in real jobs are clearly defined. Therefore, group projects do not accurately reflect professional environments.
+
+**Finally,** the article *claims* that group work increases student motivation. **In contrast,** the lecture *explains* that <u>some students rely too heavily on others.</u> The lecturer *notes* that hardworking students may feel frustrated. Over time, this can reduce overall motivation.
+
+**In conclusion, while the article** supports group work, the lecturer challenges its effectiveness **by emphasizing** unequal participation, unrealistic preparation, and reduced motivation.
 
 ---
-
-**Introduction**
-
-**The article introduces the topic of** online learning. The writer states that online education is more effective than traditional classroom learning. **However,** the lecture disagrees with this.
-
-**Body 1**
-
-**First,** the writer mentions that online learning provides flexibility in time and location.
-**However,** the lecture argues that this flexibility often leads to procrastination. The lecturer explains that many students delay studying because there is no fixed schedule. As a result, they fall behind in their courses.
-
-**Body 2**
-
-**Next,**  the writer states that online courses offer access to a wide variety of lerning *m**a**terials*.
-**On the other hand,** the lecture points out that students may feel overwhelmed by too much information. The lecturer adds that some matericals are unreliable, which can confuse learners.
-
-**Body 3**
-
-**Finally,** the writer argues that online learning helps students become independent learners.
-**In contrast,** the lecture explains that many students *lack* *self-discipline*. The lecturer notes that without direct *supervision* from teachers, students often fail to stay motivated.
-
-**Conclusion**
-
-**In conclusion,** while the article presents online learning as highly effective, the lecturer challenges this view by addressing issues related to time management, information overload, and *lack of* motivation.
-
----
-
 #### **example4. Zoo Conservation**
----
-**Introduction**
 
-**The article introduces the topic of** zoos and animal conservation. The writer states that zoos help protect endangered species. **However,** the lecture disagrees with this.
+**The article introduces the topic of** zoos and animal conservation. The writer claims that zoos play an important role in protecting endangered species. **However, the lecture disagrees with this view.**
 
-**Body 1**
+**First,** the writer *states* that zoos provide safe environments for animals. According to the article, animals are protected from predators and starvation. **However,** the lecture *explains* that animals often experience severe stress in captivity. The lecturer notes that limited space prevents animals from behaving naturally. **As a result,** their physical and mental health declines.
 
-**First,** the writer mentions that zoos provide environments for endangered animals.
-**However,** the lecture argues that animals often suffer from stress in captivity. The lecturer explains that limited space prevents animals from behaving naturally. As a result, their phisical and mental health may *decline*.
+**Next,** the article *argues* that zoos support breeding programs for endangered species. **On the other hand,** the lecture *points out* that animals raised in zoos struggle to survive in the wild. The lecturer *explains* that these animals lack essential survival skills, such as hunting and avoiding predators. Consequently, many released animals fail to survive.
 
-**Body 2**
+**Finally,** the writer *claims* that zoos educate the public about wildlife protection. **In contrast,** the lecture *argues* that documentaries and online resources are more effective. These methods reach a wider audience and provide more detailed information.
 
-**Next,** the writer states that zoos support breeding programs.
-**On the other hand,** the lecture poins out that animals raised in zoos struggle to survive in the wild. The lecturer adds that *they lack* necessary hunting and survival skills.
-
-**Body 3**
-
-**Finally,** the writer argues that zoos educate the public wildlife protection.
-**In contrast,** the lecture explains that documentaries and online resources can educate people more *effectively*. The lecturer notes that these methods reach a wilder audience.
-
-**Conclusion**
-
-**In conclusion,** while the article claims that zoos *contribute to* consevation, the lecturer challenges this view by discussing animal stress, poor survival skill, and limited educational value.
-
----
-
-#### **example5. Handwritten Notes vs Digital Notes**
----
-
-**Introduction**
-
-**The article introduces the topic of** handwritten note-taking. The writer states that writing notes by hand improves learning. **However,** the lecture disagrees with this.
-
-**Body 1**
-
-**First,** the writer **mentions** that handwritten notes improve memory *retention*.
-**However,** the lecture argues that digital notes are easier to organize. The lecturer explains that students can quickly search and edit their notes.
-
-**Body 2**
-
-**Next,** the writer **states** that handwriting helps students concentrate.
-**On the other hand,** the lecture **points out** that many students type faster than they write. The lecture adds that typing allows them to recored more information.
-
-**Body 3**
-
-**Finally,** the writer **argues** that handwriteen notes reduce distractions.
-**In contrast,** the lecture explains that **disciplined** students can avoid distractions even when using digital devices.
-
-**Conclusion**
-
-**In conclusion**, while the article *emphasizes* the benefits of handwriteen notes, the lecturer challenges this view by focusing on efficiency, speed, and personal habits.
-
----
-
-#### **example6. Space exploration**
----
-
-**Introduction**
-
-**The article introduces the topic of** space exploration. The writer **states** that investing in space programs benefits society. **However**, the lecture **disgrees** with this.
-
-**Body1**
-
-**Fisrt**, the writer **mentions** that space exploration leads to technological innovation.
-**However**, the lecture **argues** that many technologies developed for space have limited practical use on Earth. The lecturer explains that they are often too expensive.
-
-**Body2**
-
-**Next**, the writer **states** that space programs *inspire* young people to study science.
-**On the other hand**, the lecture **points out** that inspiration alone does not guarantee long-term interest. The lecturer adds that many students lose motivation due to difficulty.
-
-**Body3**
-
-**Finally**, the writer argues that space exploration ***helps*** *solve* global problems.
-**In contrast**, the lecture **explains** that space programs require *enormous* funding. The lecturer notes that this money could adress urgent social issues.
-
-**Conclusion**
-
-**In conclusion**, while the article supports space exploration, the lecturer challenges this view by emphasizing limited applications, weak motivation effects, and high costs.
+**In conclusion,** **while the article** praises zoos for conservation, the lecturer challenges this view **by discussing** animal stress, poor survival skills, and limited educational value.
 
 ---
 ## **independent task**
@@ -305,7 +190,7 @@ In conclusion, I believe that ~ is the better choice.
 
 **As A mentioned,** it is true that online classes offer flexibility and convenience. However, this view fails to consider that online learning often lacks direct interaction.
 
-**I agree more with** B's opinion, because it better reflects how students they motivated.
+**I agree more with** B's opinion, because it better reflects how students are motivated.
 
 **To build *on* B's idea**, my personal belief is that direct communication enhances understanding. For example, I understand difficult topics better when I can ask questions in class.
 
@@ -601,6 +486,6 @@ Additionally, ～.
 **This lecture discusses** the urban heat island effect.
 **The professor illustrates this with two distinct examples.**
 
-**First,** he explains that <u>matericals like concrete and asphalt absorb and retain heat.</u> He *explains* that cities become warmer than surrounding rural areas, and *also mentions* that nighttime temperatures remain high. This shows how urban design affects local climate.
+**First,** he explains that <u>materials like concrete and asphalt absorb and retain heat.</u> He *explains* that cities become warmer than surrounding rural areas, and *also mentions* that nighttime temperatures remain high. This shows how urban design affects local climate.
 
 **Additionally,** he discusses <u>the lack of green spaces in cities.</u> He points out that fewer trees reduce natural cooling, and adds that parks can significantly lower temperatures. This deomonstrates the importance of urban planning in managing heat.
