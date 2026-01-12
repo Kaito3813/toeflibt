@@ -14,7 +14,7 @@
     - [**usage**](#usage-1)
       - [**example1. Practical skills - Theoretical knowledge**](#example1-practical-skills---theoretical-knowledge)
       - [**example2. Studying abroad - Studying in one's home country**](#example2-studying-abroad---studying-in-ones-home-country)
-    - [**exapmle3. Online learning vs. face-to-face classes**](#exapmle3-online-learning-vs-face-to-face-classes)
+      - [**exapmle3. Online learning vs. face-to-face classes**](#exapmle3-online-learning-vs-face-to-face-classes)
 - [**speaking**](#speaking)
   - [**Question1**](#question1)
     - [**example1.**](#example1)
@@ -299,7 +299,7 @@ In conclusion, I believe that ~ is the better choice.
 
 ---
 
-### **exapmle3. Online learning vs. face-to-face classes**
+#### **exapmle3. Online learning vs. face-to-face classes**
 
 **I firmly believe** that face-to-face classes are more effective than online learning.
 
