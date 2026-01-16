@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>e1.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="uindependent-tasku"><strong><u>independent task</u></strong></h1>
+<h2 id="wilderness"><strong>wilderness</strong></h2>
+<hr>
+<p>I personally believe that wilderness should be protected from human activity.</p>
+<p>As Andrew mentions, it is true that human life in some regions heavily depends on hunting specific species in wildlife. However, this view fails to consider the fact that this type of lifestyle is no longer sustainable in the modern world.</p>
+<p>I agree more with Kelly’s opinion, because it better reflects the importance of protecting endangered species.</p>
+<p>To build on Kelly’s idea, my personal belief is that once a species becomes extinct, it can negatively affect the entire ecosystem. For example, animals that depend on that species for food may also struggle to survive. As a result, the balance of nature can easily collapse.</p>
+<p>In conclusion, protecting wilderness from human activity leads to better outcomes for the environment as a whole.</p>
+<hr>
+<h2 id="meal-kit-services"><strong>Meal-kit services</strong></h2>
+<hr>
+<p>I personally believe that meal-kit websites are not a positive trend.</p>
+<p>As Andrew mentions, it is true that this kind of service is helpful for younger generations or people who struggle to cook. However, this view fails to consider the fact that meal-kit services do not encourage users to develop basic cooking skills.</p>
+<p>I agree more with Claire, because her opinion better reflects the negative impact on the environment.</p>
+<p>To build on Claire’s point, my personal belief is that using meal-kit services is costly. For example, these services are often more expensive than buying ingredients at a supermarket because they include packaging and delivery fees. As a result, relying on meal-kit services can become a financial burden for users.</p>
+<p>In conclusion, meal-kit services have negative impacts on both the environment and consumers.</p>
+<hr>
+<h2 id="fast-fashion"><strong>Fast fashion</strong></h2>
+<p>I personally believe that the popularity of fast fashion is a positive trend.</p>
+<p>As Claire mentions, it is true that fast fashion may harm the environment. However, this view fails to consider the fact that many fast fashion clothes are reused or recycled rather than immediately discarded.</p>
+<p>I agree more with Andrew’s idea, because it better reflects the financial benefits of fast fashion.</p>
+<p>To build on Andrew’s point, my personal belief is that fast fashion can also offer environmental benefits. For example, many fast fashion brands now produce clothing using recycled or reusable materials. As a result, fast fashion can contribute to a more sustainable society.</p>
+<p>In conclusion, fast fashion provides positive impacts on both individuals and society.</p>
+<hr>
+<h2 id="working-from-home"><strong>Working from home</strong></h2>
+<hr>
+<p>I personally believe that working from home is beneficial.</p>
+<p>As Claire mentions, it is true that employees may struggle to communicate with their coworkers. However, this view fails to consider the fact that, thanks to technological development, there are many effective ways to communicate in real time.</p>
+<p>I agree more with Andrew’s idea, because it better reflects the flexibility of remote work.</p>
+<p>To build on Andrew’s point, my personal belief is that working from home reduces financial burdens. For example, since commuting is no longer necessary, transportation costs such as parking fees and train fares are reduced.</p>
+<p>In conclusion, working from home offers both better work-life balance and financial benefits.</p>
+<hr>
+<h2 id="artificial-intelligence"><strong>Artificial Intelligence</strong></h2>
+<hr>
+<p>I personally believe that the increasing use of artificial intelligence is a positive development for society.</p>
+<p>As Claire mentions, it is true that AI has the potential to replace human labor. However, this view fails to consider the fact that AI also creates new job opportunities and allows humans to focus on more important tasks.</p>
+<p>I agree more with Andrew’s idea, because it better reflects the long-term benefits of technological progress and its positive impact on society as a whole.</p>
+<p>To build on Andrew’s point, my personal belief is that AI significantly improves efficiency in various fields. For example, in business and healthcare, AI can process large amounts of data quickly and accurately, which helps professionals make better decisions. As a result, humans can focus more on creative and interpersonal work that machines cannot easily replace.</p>
+<p>In conclusion, although AI may replace certain jobs, it ultimately benefits society by enhancing productivity and creating new opportunities.</p>
+
+</body>
+</html>
